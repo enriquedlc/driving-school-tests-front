@@ -1,7 +1,11 @@
 import "./App.css";
 
 function App() {
-  return <>driving tests</>;
+  return (
+    <>
+      <p className="poppins-regular-italic">driving tests</p>
+    </>
+  );
 }
 
 export default App;
