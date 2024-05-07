@@ -1,9 +1,10 @@
 import "./App.css";
+import HomeNoLogin from "./pages/HomeNoLogin";
 
 function App() {
   return (
     <>
-      <p className="poppins-regular-italic">TEST</p>
+      <HomeNoLogin />
     </>
   );
 }
